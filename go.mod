@@ -33,7 +33,7 @@ require (
 	github.com/prometheus/client_golang v1.9.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.6.7
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
 	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897 // indirect
