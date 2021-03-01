@@ -13,7 +13,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.15
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.5
 	github.com/Huawei/gophercloud v1.0.21
-	github.com/Shopify/sarama v1.27.2
+	github.com/Shopify/sarama v1.28.0
 	github.com/aws/aws-sdk-go v1.36.19
 	github.com/go-logr/logr v0.1.0
 	github.com/go-redis/redis v6.15.9+incompatible
@@ -33,10 +33,9 @@ require (
 	github.com/prometheus/client_golang v1.9.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.6.7
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897 // indirect
 	google.golang.org/api v0.36.0
 	google.golang.org/genproto v0.0.0-20200904004341-0bd0a958aa1d
 	google.golang.org/grpc v1.34.0
