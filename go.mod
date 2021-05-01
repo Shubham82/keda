@@ -23,7 +23,7 @@ require (
 	github.com/google/go-cmp v0.5.4
 	github.com/hashicorp/vault/api v1.0.4
 	github.com/imdario/mergo v0.3.11
-	github.com/influxdata/influxdb-client-go/v2 v2.2.1
+	github.com/influxdata/influxdb-client-go/v2 v2.3.0
 	github.com/kubernetes-incubator/custom-metrics-apiserver v0.0.0-20200618121405-54026617ec44
 	github.com/lib/pq v1.9.0
 	github.com/mitchellh/hashstructure v1.1.0
@@ -36,7 +36,6 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tidwall/gjson v1.6.7
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897 // indirect
 	google.golang.org/api v0.36.0
 	google.golang.org/genproto v0.0.0-20200904004341-0bd0a958aa1d
 	google.golang.org/grpc v1.34.0
